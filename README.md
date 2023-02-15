@@ -43,13 +43,13 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2023
+> 🏆 67 Contributions in the Year 2023
  > 
 > 📦 571.3 kB Used in GitHub's Storage 
  > 
@@ -88,21 +88,21 @@ Sunday           2 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JSON                     4 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   38.58 % 
-JavaScript               3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-TypeScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JavaScript               4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
+JSON                     2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spresso-webapp           9 hrs 42 mins       ███████████████████████░░   92.08 % 
-data-analysis            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+spresso-webapp           8 hrs 48 mins       ███████████████████████░░   92.91 % 
+data-analysis            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 💻 Operating System: 
-Mac                      10 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -123,7 +123,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nighD/nighD/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 18:38:38 UTC
+ Last Updated on 15/02/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
