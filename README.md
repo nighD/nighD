@@ -51,6 +51,8 @@ I am a Full Stack Developer
 
 > 📦 600.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -84,17 +86,16 @@ Sunday                   3851 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr                █████████████████████░░░░   85.41 % 
-JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sc-ramper-application    1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +115,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2024 18:36:49 UTC
+ Last Updated on 15/02/2024 18:36:39 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
