@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C456%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,16 +86,24 @@ Sunday                   3851 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 20 mins       ██████████████████░░░░░░░   70.99 % 
+JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Diff                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ext-sg-wallet            1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   34.76 % 
+app-sg-ancient8-wallet   47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+ramper                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+sc-ramper-application    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+app-sg-fin-wallet        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +123,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:36:39 UTC
+ Last Updated on 16/02/2024 18:35:48 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
