@@ -43,13 +43,15 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C709%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C711%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 680.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,24 +86,24 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               41 hrs 39 mins      ██████████████████████░░░   87.92 % 
-JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Solidity                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript               42 hrs 36 mins      ██████████████████████░░░   88.14 % 
+JavaScript               2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Solidity                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  48 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      30 hrs 46 mins      ████████████████░░░░░░░░░   64.94 % 
-server-super-link        7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-server-markets-spw       4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-point-token-contract     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-coin98-superlink-evm     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+mobile-super-wallet      30 hrs 44 mins      ████████████████░░░░░░░░░   63.59 % 
+server-super-link        7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+server-markets-spw       4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+point-token-contract     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+coin98-superlink-evm     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Mac                      47 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 18:39:57 UTC
+ Last Updated on 26/05/2025 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
