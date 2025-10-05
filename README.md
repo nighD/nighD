@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C174%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C174%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,9 +86,9 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               11 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.04 % 
+TypeScript               11 hrs 27 mins      ████████████░░░░░░░░░░░░░   48.86 % 
 JavaScript               3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-JSON                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+JSON                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 CocoaPods                1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
@@ -96,10 +96,10 @@ Markdown                 48 mins             █░░░░░░░░░░�
 VS Code                  23 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      10 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.15 % 
-ramper-v2                6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-ebook-web                2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-coin98-payment-evm       2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+mobile-super-wallet      10 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+ramper-v2                6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+ebook-web                2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+coin98-payment-evm       2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 coin98-superlink-evm     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
@@ -123,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:38:51 UTC
+ Last Updated on 05/10/2025 18:39:04 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
