@@ -86,23 +86,16 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ██████████████████████░░░   87.71 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-CocoaPods                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobile-super-wallet      2 hrs               ██████████████████░░░░░░░   70.42 % 
-swap-x                   44 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-web-superWeb98           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-sdk-swapX                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-server-super-link        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +115,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 18:52:31 UTC
+ Last Updated on 02/05/2026 18:49:04 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
