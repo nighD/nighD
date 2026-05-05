@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C801%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C804%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,18 +86,21 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               1 min               ███████████████████░░░░░░   75.72 % 
-TypeScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               3 hrs 16 mins       ███████████████████████░░   91.48 % 
+CocoaPods                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coin98-superlink-evm     2 mins              █████████████████████████   100.00 % 
+mobile-super-wallet      3 hrs 32 mins       █████████████████████████   98.84 % 
+coin98-superlink-evm     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +120,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 19:04:24 UTC
+ Last Updated on 05/05/2026 18:59:59 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
