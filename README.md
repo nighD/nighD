@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C822%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C822%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,24 +86,24 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               17 hrs 57 mins      █████████████████████░░░░   82.32 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-CocoaPods                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               17 hrs 57 mins      █████████████████████░░░░   82.44 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+CocoaPods                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      20 hrs 52 mins      ████████████████████████░   95.65 % 
+mobile-super-wallet      20 hrs 52 mins      ████████████████████████░   95.83 % 
 server-super-link        24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 scense_director-main     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Research-AI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-coin98-superlink-evm     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+NSIRD_screencaptureui_foP0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 18:49:00 UTC
+ Last Updated on 10/05/2026 18:49:08 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
