@@ -43,11 +43,13 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C858%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 707.7 kB Used in GitHub's Storage 
+> 📦 707.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -57,6 +59,52 @@ I am a Full Stack Developer
  > 
 > 🔑 31 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                686 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌃 Evening                699 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 414 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Friday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 433 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Sunday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               11 hrs 45 mins      ███████████████████░░░░░░   76.10 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 26 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mobile-super-wallet      14 hrs 24 mins      ███████████████████████░░   93.29 % 
+ramper-v2                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+server-ramper-services   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      15 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +122,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 18:50:22 UTC
+ Last Updated on 18/05/2026 19:08:29 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
