@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C932%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C934%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,26 +86,26 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               9 hrs 18 mins       ███████████████░░░░░░░░░░   61.67 % 
-JSON                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-JavaScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               8 hrs 48 mins       ███████████████████░░░░░░   76.46 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
-VS Code                  5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.46 % 
-Antigravity Desktop      3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Antigravity IDE          6 hrs 35 mins       ██████████████░░░░░░░░░░░   57.24 % 
+Antigravity Desktop      2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+VS Code                  2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-ramper-v2                4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-web-avis                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-ramper-app               1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-scratch                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+mobile-super-wallet      6 hrs 8 mins        █████████████░░░░░░░░░░░░   53.36 % 
+ramper-v2                2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+web-avis                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+scratch                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+ramper-app               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 19:01:36 UTC
+ Last Updated on 03/07/2026 19:58:51 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
