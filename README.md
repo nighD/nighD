@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C934%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C934%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,25 +86,25 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       █████████████████████░░░░   84.03 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript               3 hrs 53 mins       ████████████████████░░░░░   81.06 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 24 mins       ██████████████░░░░░░░░░░░   54.30 % 
-Antigravity Desktop      2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
-VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Antigravity Desktop      2 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.85 % 
+Antigravity IDE          2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.41 % 
+VS Code                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      3 hrs 17 mins       █████████████░░░░░░░░░░░░   52.44 % 
-web-avis                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
-scratch                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+web-avis                 2 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.45 % 
+mobile-super-wallet      1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
+scratch                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 call_nwtUruK9yJvFNpkylXpq0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:24:27 UTC
+ Last Updated on 07/07/2026 20:25:30 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
