@@ -86,26 +86,26 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ███████████████████░░░░░░   76.92 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               4 hrs 31 mins       ███████████████████░░░░░░   76.05 % 
+JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 12 mins       ██████████████████████░░░   89.33 % 
-VS Code                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Antigravity IDE          5 hrs 19 mins       ██████████████████████░░░   89.27 % 
+VS Code                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-web-avis                 4 hrs 16 mins       ███████████████░░░░░░░░░░   61.55 % 
-mobile-super-wallet      2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-coin98-superlink-evm     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-ramper-v2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-semantic-router          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+web-avis                 3 hrs 17 mins       ██████████████░░░░░░░░░░░   55.16 % 
+mobile-super-wallet      2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
+coin98-superlink-evm     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+ramper-v2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+semantic-router          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Mac                      6 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 19:39:36 UTC
+ Last Updated on 13/07/2026 19:58:29 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
