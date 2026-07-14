@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C936%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C937%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,21 +62,21 @@ I am a Full Stack Developer
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌆 Daytime                686 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
-🌃 Evening                699 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
-🌙 Night                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌞 Morning                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+🌆 Daytime                685 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌃 Evening                697 commits         █████████░░░░░░░░░░░░░░░░   35.63 % 
+🌙 Night                  317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 414 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Friday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Saturday                 433 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Sunday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Monday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Tuesday                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Thursday                 414 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Saturday                 433 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Sunday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 
 
@@ -86,26 +86,26 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 31 mins       ███████████████████░░░░░░   76.05 % 
-JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               2 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.00 % 
+Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Go                       54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 19 mins       ██████████████████████░░░   89.27 % 
-VS Code                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Antigravity IDE          3 hrs 42 mins       ████████████████░░░░░░░░░   63.73 % 
+VS Code                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Antigravity Desktop      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🐱‍💻 Projects: 
-web-avis                 3 hrs 17 mins       ██████████████░░░░░░░░░░░   55.16 % 
-mobile-super-wallet      2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
-coin98-superlink-evm     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-ramper-v2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-semantic-router          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+mobile-super-wallet      2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.11 % 
+web-avis                 1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+semantic-router          54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+scratch                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+coin98-superlink-evm     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Mac                      5 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 19:58:29 UTC
+ Last Updated on 14/07/2026 19:53:03 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
