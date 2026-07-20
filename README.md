@@ -86,26 +86,26 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       █████████████░░░░░░░░░░░░   52.68 % 
-Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-JSON                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Go                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+TypeScript               8 hrs 45 mins       ███████████████░░░░░░░░░░   58.15 % 
+Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+JSON                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 hrs               ███████████░░░░░░░░░░░░░░   43.61 % 
-VS Code                  6 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.21 % 
-Antigravity IDE          2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Antigravity Desktop      6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+VS Code                  5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+Antigravity IDE          2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-ramper-sdk-web           3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Desktop                  3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-semantic-router          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+mobile-super-wallet      4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+ramper-sdk-web           3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Desktop                  3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+group3                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 💻 Operating System: 
-Mac                      16 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 19:40:50 UTC
+ Last Updated on 20/07/2026 20:07:34 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
