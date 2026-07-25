@@ -43,11 +43,13 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C979%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 836.6 kB Used in GitHub's Storage 
+> 📦 837.1 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -57,14 +59,63 @@ I am a Full Stack Developer
  > 
 > 🔑 32 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                686 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌃 Evening                699 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 414 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Friday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 433 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Sunday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               7 hrs 1 min         ████████████░░░░░░░░░░░░░   49.22 % 
+Python                   2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+JavaScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+
+🔥 Editors: 
+Antigravity IDE          9 hrs 51 mins       █████████████████░░░░░░░░   69.02 % 
+VS Code                  2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Antigravity Desktop      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+
+🐱‍💻 Projects: 
+group3                   4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+mobile-super-wallet      4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+server-super-link        1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+ramper-sdk-web           1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+ramper-sdk-v3            1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+
+💻 Operating System: 
+Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -74,7 +125,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:59 UTC
+ Last Updated on 25/07/2026 19:44:12 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
