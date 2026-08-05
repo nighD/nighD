@@ -43,17 +43,17 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C867%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C874%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 838.9 kB Used in GitHub's Storage 
+> 📦 839.2 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,79 +61,6 @@ I am a Full Stack Developer
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                699 commits         █████████░░░░░░░░░░░░░░░░   34.88 % 
-🌃 Evening                707 commits         █████████░░░░░░░░░░░░░░░░   35.28 % 
-🌙 Night                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 422 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Friday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Saturday                 438 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Sunday                   196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               6 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.15 % 
-Python                   4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-
-🔥 Editors: 
-Antigravity IDE          9 hrs 34 mins       ██████████████████░░░░░░░   71.17 % 
-Antigravity Desktop      3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🐱‍💻 Projects: 
-group3                   7 hrs 38 mins       ██████████████░░░░░░░░░░░   56.75 % 
-conference-translation   3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-web-avis                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-quirky-tesla             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-ramper-sdk-web           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-
-💻 Operating System: 
-Mac                      13 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 27 mins (100.0%)
-
-✍️ 1,172 lines written by AI, 3 lines written by hand (99.74% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 153 AI Prompts
-
-Gemini                   731 lines           ████████████░░░░░░░░░░░░░   49.39 % 
-Sonnet                   590 lines           ██████████░░░░░░░░░░░░░░░   39.86 % 
-Opus                     159 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -151,7 +78,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:09:59 UTC
+ Last Updated on 05/08/2026 20:08:51 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
