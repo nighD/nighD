@@ -43,13 +43,17 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C878%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 839.2 kB Used in GitHub's Storage 
+> 📦 839.4 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +64,21 @@ I am a Full Stack Developer
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                699 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌃 Evening                711 commits         █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌙 Night                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌞 Morning                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                712 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌃 Evening                723 commits         █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌙 Night                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Wednesday                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Friday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Saturday                 438 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Sunday                   196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Friday                   183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Saturday                 443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Sunday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 ```
 
 
@@ -146,7 +150,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:02 UTC
+ Last Updated on 07/08/2026 19:29:39 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
