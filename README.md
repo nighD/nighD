@@ -43,10 +43,6 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C874%20hrs%2039%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,6 +57,78 @@ I am a Full Stack Developer
  > 
 > 🔑 32 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌆 Daytime                699 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌃 Evening                711 commits         █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌙 Night                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Wednesday                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Friday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Saturday                 438 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Sunday                   196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Python                   11 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.78 % 
+TypeScript               10 hrs 41 mins      ███████████░░░░░░░░░░░░░░   42.49 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
+🔥 Editors: 
+Antigravity IDE          24 hrs 46 mins      █████████████████████████   98.40 % 
+VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+🐱‍💻 Projects: 
+group3                   18 hrs 9 mins       ██████████████████░░░░░░░   72.10 % 
+web-avis                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+ramper-v2                1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+conference-translation   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+ramper-sdk-web           37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+💻 Operating System: 
+Mac                      25 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs (99.36%)
+
+✍️ 2,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 49 AI Sessions, 244 AI Prompts
+
+Sonnet                   1,667 lines         ██████████████████░░░░░░░   71.06 % 
+Gemini                   445 lines           █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Opus                     234 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -78,7 +146,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:08:51 UTC
+ Last Updated on 07/08/2026 00:24:02 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
