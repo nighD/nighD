@@ -51,9 +51,9 @@ I am a Full Stack Developer
 
 **🐱 My GitHub Data** 
 
-> 📦 967.4 kB Used in GitHub's Storage 
+> 📦 967.5 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,24 +61,24 @@ I am a Full Stack Developer
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-🌆 Daytime                758 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌃 Evening                758 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌙 Night                  338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌞 Morning                365 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌆 Daytime                784 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
+🌃 Evening                775 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌙 Night                  343 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Thursday                 438 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Friday                   195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Saturday                 468 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Sunday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Monday                   339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Wednesday                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Thursday                 473 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Friday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Saturday                 478 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 
@@ -88,50 +88,48 @@ Sunday                   223 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.80 % 
-TypeScript               3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-SQL                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TypeScript               1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   39.01 % 
+Python                   1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-Antigravity Desktop      2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-VS Code                  2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Antigravity IDE          2 hrs 41 mins       ████████████████████░░░░░   78.73 % 
+Antigravity Desktop      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🐱‍💻 Projects: 
-group3                   3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
-quotation                2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-MCP                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-mobile-super-wallet      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-demo                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+group3                   2 hrs 46 mins       ████████████████████░░░░░   80.94 % 
+MCP                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+quotation                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 37 mins (93.96%)
+⏱ AI Coding Time: 3 hrs 18 mins (96.56%)
 
-✍️ 1,305 lines written by AI, 10 lines written by hand (99.24% AI-written)
+✍️ 459 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 39,924 Input Tokens, 922 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 122 AI Prompts
+🧠 6 AI Sessions, 35 AI Prompts
 
-Gemini                   549 lines           █████████░░░░░░░░░░░░░░░░   37.81 % 
-Sonnet                   502 lines           █████████░░░░░░░░░░░░░░░░   34.57 % 
-Github-Copilot           401 lines           ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Gemini                   266 lines           █████████████░░░░░░░░░░░░   50.09 % 
+Sonnet                   265 lines           ████████████░░░░░░░░░░░░░   49.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📄 Detailed Prompter — average 718 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.43% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +149,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:04:36 UTC
+ Last Updated on 20/08/2026 19:11:32 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
