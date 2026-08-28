@@ -88,47 +88,49 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ██████████████░░░░░░░░░░░   56.99 % 
-Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               7 hrs 19 mins       ████████████░░░░░░░░░░░░░   46.75 % 
+Python                   4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Markdown                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 11 mins       █████████████████████████   98.05 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Antigravity IDE          14 hrs 21 mins      ███████████████████████░░   91.64 % 
+VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🐱‍💻 Projects: 
-group3                   2 hrs 47 mins       ████████████████░░░░░░░░░   65.23 % 
-ramper-sdk-web           1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-coin98-superlink-evm     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-mobile-super-wallet      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+group3                   11 hrs 59 mins      ███████████████████░░░░░░   76.60 % 
+mobile-super-wallet      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+coin98-superlink-evm     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+quotation                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+superlink-v2-sui         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (99.1%)
+⏱ AI Coding Time: 15 hrs 2 mins (96.09%)
 
-✍️ 350 lines written by AI, 13 lines written by hand (96.42% AI-written)
+✍️ 1,767 lines written by AI, 17 lines written by hand (99.05% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 61 AI Prompts
+🧠 40 AI Sessions, 185 AI Prompts
 
-Gemini                   399 lines           ████████████████████░░░░░   81.43 % 
-Sonnet                   91 lines            █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Gemini                   944 lines           ████████████░░░░░░░░░░░░░   49.68 % 
+Sonnet                   825 lines           ███████████░░░░░░░░░░░░░░   43.42 % 
+Antigravity-Ide          131 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.42% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.05% of written lines came from AI
+📝 Concise Prompter — average 147 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +150,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:33:03 UTC
+ Last Updated on 28/08/2026 02:18:31 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
