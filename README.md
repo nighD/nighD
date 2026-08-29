@@ -43,9 +43,9 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C900%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C901%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,50 +88,50 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
-Python                   4 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Markdown                 2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.35 % 
+Python                   3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.01 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 2 mins       ██████████████████████░░░   88.14 % 
-VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Antigravity Desktop      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Antigravity IDE          8 hrs 35 mins       █████████████████████░░░░   85.26 % 
+VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Antigravity Desktop      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🐱‍💻 Projects: 
-group3                   9 hrs 28 mins       ███████████████████░░░░░░   75.65 % 
-mobile-super-wallet      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-coin98-superlink-evm     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-quotation                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-deepseek-harness         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+group3                   7 hrs 3 mins        ██████████████████░░░░░░░   70.08 % 
+mobile-super-wallet      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+coin98-superlink-evm     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+quotation                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+deepseek-harness         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 54 mins (95.11%)
+⏱ AI Coding Time: 9 hrs 27 mins (93.92%)
 
-✍️ 1,419 lines written by AI, 17 lines written by hand (98.82% AI-written)
+✍️ 1,184 lines written by AI, 17 lines written by hand (98.58% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 134 AI Prompts
+🧠 32 AI Sessions, 106 AI Prompts
 
-Sonnet                   825 lines           ██████████████░░░░░░░░░░░   54.74 % 
-Gemini                   551 lines           █████████░░░░░░░░░░░░░░░░   36.56 % 
-Antigravity-Ide          131 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Sonnet                   825 lines           ████████████████░░░░░░░░░   64.96 % 
+Gemini                   314 lines           ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Antigravity-Ide          131 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.82% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.12% of changed lines were hand-edited
+🤖 AI-Driven — 98.58% of written lines came from AI
+📝 Concise Prompter — average 192 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +151,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:52:00 UTC
+ Last Updated on 29/08/2026 21:05:37 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
