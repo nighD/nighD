@@ -88,49 +88,44 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               41 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Python                   37 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-CMake                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+TypeScript               35 mins             ███████████████░░░░░░░░░░   59.90 % 
+CMake                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 22 mins        ████████████████░░░░░░░░░   63.56 % 
-VS Code                  36 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-Antigravity Desktop      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Antigravity IDE          49 mins             █████████████████████░░░░   82.42 % 
+Antigravity Desktop      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      40 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
-group3                   37 mins             ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-coin98-superlink-evm     36 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-deepseek-harness         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-superlink-v2-sui         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+mobile-super-wallet      49 mins             █████████████████████░░░░   82.42 % 
+deepseek-harness         8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+calm-pythagoras          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (71.69%)
+⏱ AI Coding Time: 1 hr (100.0%)
 
-✍️ 230 lines written by AI, 17 lines written by hand (93.12% AI-written)
+✍️ 33 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-Sonnet                   233 lines           ████████████████████████░   96.68 % 
-Gemini                   8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Sonnet                   29 lines            ████████████████████░░░░░   78.38 % 
+Gemini                   8 lines             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.12% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.59% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +145,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:13:21 UTC
+ Last Updated on 03/09/2026 21:14:17 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
