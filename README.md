@@ -43,9 +43,9 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C901%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C901%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,43 +88,48 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               35 mins             ███████████████░░░░░░░░░░   59.90 % 
-CMake                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+TypeScript               1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
+JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+CocoaPods                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Antigravity IDE          49 mins             █████████████████████░░░░   82.42 % 
-Antigravity Desktop      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Antigravity IDE          1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
+VS Code                  37 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      49 mins             █████████████████████░░░░   82.42 % 
-deepseek-harness         8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-calm-pythagoras          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+mobile-super-wallet      1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
+mobile_fanos             33 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
+call_tgh8dl575g6FmFJRRUNM2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+coin98-superlink-evm     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+copilot-terminal-output  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
+⏱ AI Coding Time: 1 hr 29 mins (85.7%)
 
-✍️ 33 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 172 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 34,475 Input Tokens, 525 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.11 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 6 AI Sessions, 33 AI Prompts
 
-Sonnet                   29 lines            ████████████████████░░░░░   78.38 % 
-Gemini                   8 lines             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Sonnet                   78 lines            ███████████░░░░░░░░░░░░░░   42.16 % 
+Github-Copilot           61 lines            ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Gemini                   46 lines            ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 200 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,090 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -145,7 +150,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:14:17 UTC
+ Last Updated on 04/09/2026 20:57:18 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
