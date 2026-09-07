@@ -88,49 +88,50 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CocoaPods                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               2 hrs 22 mins       ████████████████░░░░░░░░░   62.56 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
-VS Code                  37 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
+VS Code                  2 hrs 21 mins       ███████████████░░░░░░░░░░   61.93 % 
+Antigravity IDE          1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+Antigravity Desktop      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 
 🐱‍💻 Projects: 
-mobile-super-wallet      1 hr 7 mins         ████████████████░░░░░░░░░   64.63 % 
-mobile_fanos             33 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
-call_tgh8dl575g6FmFJRRUNM2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-coin98-superlink-evm     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-copilot-terminal-output  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+mobile_fanos             2 hrs 19 mins       ███████████████░░░░░░░░░░   61.23 % 
+mobile-super-wallet      1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+zealous-shannon          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+coin98-superlink-evm     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+call_tgh8dl575g6FmFJRRUNM2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (85.7%)
+⏱ AI Coding Time: 3 hrs 12 mins (84.21%)
 
-✍️ 172 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 172 lines written by AI, 4 lines written by hand (97.73% AI-written)
 
-🔤 34,475 Input Tokens, 525 Output Tokens
+🔤 163,226 Input Tokens, 2,326 Output Tokens
 
-💵 $0.11 Estimated AI Cost This Week
+💵 $0.52 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 33 AI Prompts
+🧠 9 AI Sessions, 59 AI Prompts
 
 Sonnet                   78 lines            ███████████░░░░░░░░░░░░░░   42.16 % 
 Github-Copilot           61 lines            ████████░░░░░░░░░░░░░░░░░   32.97 % 
 Gemini                   46 lines            ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,090 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.73% of written lines came from AI
+📚 Verbose Prompter — average 4,253 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +151,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:39:22 UTC
+ Last Updated on 07/09/2026 21:43:31 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
