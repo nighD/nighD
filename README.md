@@ -43,9 +43,9 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C910%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C911%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,32 +88,32 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
-TypeScript               3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
-Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Python                   4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.14 % 
+TypeScript               3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.19 % 
-VS Code                  3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Antigravity Desktop      2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Antigravity IDE          5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
+VS Code                  3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Antigravity Desktop      2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
 
 🐱‍💻 Projects: 
-mobile_fanos             4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
-group3                   4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-web-admin-fanos          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-coin98-superlink-evm     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-bold-franklin            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+group3                   4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
+mobile_fanos             4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+web-admin-fanos          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+coin98-superlink-evm     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+bold-franklin            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 42 mins (92.66%)
+⏱ AI Coding Time: 11 hrs 20 mins (93.04%)
 
 ✍️ 454 lines written by AI, 36 lines written by hand (92.65% AI-written)
 
@@ -121,7 +121,7 @@ Mac                      11 hrs 33 mins      ███████████�
 
 💵 $0.41 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 113 AI Prompts
+🧠 35 AI Sessions, 116 AI Prompts
 
 Sonnet                   243 lines           ████████████░░░░░░░░░░░░░   48.21 % 
 Antigravity-Ide          133 lines           ███████░░░░░░░░░░░░░░░░░░   26.39 % 
@@ -130,7 +130,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 92.65% of written lines came from AI
-📚 Verbose Prompter — average 1,883 characters per prompt
+📚 Verbose Prompter — average 1,843 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 7.52% of changed lines were hand-edited
 ```
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:10:04 UTC
+ Last Updated on 12/09/2026 20:47:49 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
