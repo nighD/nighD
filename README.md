@@ -53,7 +53,7 @@ I am a Full Stack Developer
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2026
+> 🏆 117 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,20 +64,20 @@ I am a Full Stack Developer
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌆 Daytime                789 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                776 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
+🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                789 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                776 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
 🌙 Night                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Monday                   348 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Wednesday                271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 474 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Thursday                 474 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Saturday                 479 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Saturday                 479 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 
@@ -88,50 +88,50 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Markdown                 2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-TypeScript               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-HTML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-JSON                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Other                    2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Markdown                 1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+HTML                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+TypeScript               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████░░░░░░░░░░░░   53.05 % 
-Antigravity Desktop      2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Antigravity IDE          2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+VS Code                  4 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.20 % 
+Antigravity Desktop      2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Antigravity IDE          2 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 
 🐱‍💻 Projects: 
-group3                   5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-mobile_fanos             4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-web-fanos                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Email 2                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-coin98-superlink-evm     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+group3                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.94 % 
+mobile_fanos             2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+web-fanos                1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Email 2                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Downloads                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      11 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 1 min (75.47%)
+⏱ AI Coding Time: 7 hrs 58 mins (84.4%)
 
-✍️ 4,415 lines written by AI, 34 lines written by hand (99.24% AI-written)
+✍️ 4,405 lines written by AI, 20 lines written by hand (99.55% AI-written)
 
 🔤 166,443 Input Tokens, 1,824 Output Tokens
 
 💵 $0.53 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 127 AI Prompts
+🧠 24 AI Sessions, 114 AI Prompts
 
-Github-Copilot           4,286 lines         ████████████████████████░   96.64 % 
-Gemini                   83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Sonnet                   66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Github-Copilot           4,286 lines         ████████████████████████░   97.30 % 
+Gemini                   83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Sonnet                   36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📝 Concise Prompter — average 287 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📝 Concise Prompter — average 278 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +151,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:32 UTC
+ Last Updated on 21/09/2026 22:08:12 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
