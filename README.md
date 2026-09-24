@@ -45,7 +45,7 @@ I am a Full Stack Developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C919%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,7 +53,7 @@ I am a Full Stack Developer
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +64,21 @@ I am a Full Stack Developer
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-🌆 Daytime                790 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                777 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
-🌙 Night                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌞 Morning                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                794 commits         █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌃 Evening                777 commits         ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌙 Night                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Thursday                 474 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Saturday                 479 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Monday                   349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Wednesday                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Thursday                 479 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Saturday                 479 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 ```
 
 
@@ -88,32 +88,32 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    4 hrs 55 mins       ████████████████░░░░░░░░░   65.71 % 
-HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    4 hrs 11 mins       ███████████████░░░░░░░░░░   61.98 % 
+HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Groovy                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 55 mins       ████████████████░░░░░░░░░   65.71 % 
-Antigravity IDE          1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-VS Code                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Antigravity Desktop      4 hrs 11 mins       ███████████████░░░░░░░░░░   61.98 % 
+Antigravity IDE          1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+VS Code                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 
 🐱‍💻 Projects: 
-group3                   4 hrs 44 mins       ████████████████░░░░░░░░░   63.34 % 
-mobile_fanos             1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Email 2                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-web-fanos                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-lucid-einstein           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+group3                   4 hrs               ███████████████░░░░░░░░░░   59.35 % 
+mobile_fanos             1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Email 2                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+web-fanos                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+lucid-einstein           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Mac                      7 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (99.55%)
+⏱ AI Coding Time: 6 hrs 43 mins (99.5%)
 
 ✍️ 4,317 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -121,7 +121,7 @@ Mac                      7 hrs 29 mins       ███████████�
 
 💵 $0.10 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 79 AI Prompts
+🧠 15 AI Sessions, 69 AI Prompts
 
 Github-Copilot           4,285 lines         █████████████████████████   99.26 % 
 Gemini                   26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
@@ -129,8 +129,8 @@ Sonnet                   6 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 301 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 257 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.55% of changed lines were hand-edited
 ```
 
@@ -151,7 +151,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:40:53 UTC
+ Last Updated on 24/09/2026 21:42:03 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
