@@ -88,32 +88,32 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Groovy                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-XML                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    49 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+JavaScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Groovy                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+XML                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 38 mins        ██████████████░░░░░░░░░░░   57.16 % 
-Antigravity Desktop      1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Antigravity IDE          1 hr 38 mins        ████████████████░░░░░░░░░   64.95 % 
+Antigravity Desktop      49 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-mobile_fanos             1 hr 38 mins        ██████████████░░░░░░░░░░░   57.16 % 
-group3                   1 hr                █████████░░░░░░░░░░░░░░░░   34.70 % 
-lucid-einstein           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-mobile-super-wallet      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+mobile_fanos             1 hr 38 mins        ████████████████░░░░░░░░░   64.95 % 
+group3                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+lucid-einstein           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+mobile-super-wallet      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 51 mins (99.23%)
+⏱ AI Coding Time: 2 hrs 31 mins (99.12%)
 
 ✍️ 41 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -121,7 +121,7 @@ Mac                      2 hrs 53 mins       ███████████�
 
 💵 $0.10 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 34 AI Prompts
+🧠 9 AI Sessions, 22 AI Prompts
 
 Gemini                   26 lines            ████████████████░░░░░░░░░   63.41 % 
 Github-Copilot           9 lines             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
@@ -129,8 +129,8 @@ Sonnet                   6 lines             ████░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 342 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 508 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 35.94% of changed lines were hand-edited
 ```
 
@@ -151,7 +151,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:47:21 UTC
+ Last Updated on 26/09/2026 21:24:36 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
