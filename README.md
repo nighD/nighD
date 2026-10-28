@@ -43,7 +43,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C920%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C920%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2052%20mins-blue?style=flat)
 
@@ -124,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nighD/nighD/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:30:18 UTC
+ Last Updated on 28/10/2026 22:46:56 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nighD&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
